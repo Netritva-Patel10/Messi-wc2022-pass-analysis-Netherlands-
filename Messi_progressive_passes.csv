@@ -1,0 +1,5 @@
+location,minute,second,pass_end_location,pass_height,pass_length,player,pass_recipient,play_pattern,position,timestamp,x,y,end_x,end_y,dist_start,dist_end
+"[87.0, 60.1]",4,29,"[109.6, 61.3]",Ground Pass,22.631836,Lionel Messi,Nahuel Molina Lucero,Regular Play,Right Center Forward,04:29.6,87,60.1,109.6,61.3,38.63948757,23.70337529
+"[96.3, 39.7]",9,56,"[109.6, 24.6]",Ground Pass,20.122128,Lionel Messi,Marcos Acuna,From Goal Kick,Right Center Forward,09:56.7,96.3,39.7,109.6,24.6,23.70189866,18.58278773
+"[85.6, 44.9]",34,2,"[103.4, 50.6]",Ground Pass,18.690372,Lionel Messi,Nahuel Molina Lucero,From Throw In,Right Center Forward,34:02.0,85.6,44.9,103.4,50.6,34.74723011,19.69568481
+"[88.4, 57.5]",93,32,"[104.9, 30.2]",High Pass,31.898903,Lionel Messi,Nicolas Tagliafico,Regular Play,Right Center Forward,03:32.1,88.4,57.5,104.9,30.2,36.12215387,18.00138884
